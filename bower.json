@@ -1,0 +1,30 @@
+{
+  "name": "mars",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kjartab/mars",
+  "authors": [
+    "Kjartan Bjørset <kjartanbjorset@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cesium": "~1.7.1",
+    "jquery": "~2.1.4",
+    "turf": "~2.0.2",
+    "leaflet": "~0.7.5",
+    "ol3-cesium": "https://github.com/openlayers/ol3-cesium.git",
+    "openlayers3": "~3.0.0"
+  }
+}
